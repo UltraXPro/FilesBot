@@ -24,7 +24,7 @@ else {
 $GLOBALS["START_MESSAGE"] = <<<EOM
 Thank You For Using Me <a href="https://t.me/joinchat/AAAAAFhARw1am6BjAviz3g">😬</a>
 
-<u><b>You Will Get All The Movies/webseries Available On Our Telegram Channel...🤩</b></u>, and <b><i>I might help you to create a PUBlic link</i></b>.
+<u><b>You Will Get All The Movies/webseries Available On Our Telegram Channel...</b></u>, and <b><i>I might help you to create a PUBlic link</i></b>.
 
 Subscribe ℹ️ @EylexStreamTV if you ❤️ Our Movies/WebSeries Free Servicing...!
 EOM;
